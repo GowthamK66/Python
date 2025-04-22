@@ -1,2 +1,1 @@
-# Python
-This Python Project were developed for work time optimization
+This Python Project were developed at Workplace
